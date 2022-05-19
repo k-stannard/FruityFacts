@@ -1,2 +1,2 @@
 # FruityFacts
-Network parsing practice
+Practice with JSON parsing & implementing MVVM architecture.
